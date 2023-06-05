@@ -1,0 +1,3106 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1928555",
+ "description": {
+  "plain": "California singer, actor, and fitness enthusiast Big Daddy Swolls delivers party-starting anthems that combine dance-friendly electronic with his smooth rap-inspired vocals. Similar to artists such as Pitbull , Nelly , and Flo Rida , Swolls\u2019 main objective is a good time. He debuted in 2018 with a handful of singles, including \u201cSummertime.\u201d Born Matthew Garrett Evans in the Bay Area, he had a rough upbringing, frequently moving around with his single mom and enduring bullying during his school years. After high school, he enlisted with the Marines and then enrolled at San Jose State University for a degree in management. Moving to Los Angeles, he put his physique to good use and was employed as a bodyguard for the likes of MC Hammer , Nicki Minaj , and others. Around this time, a chance meeting with a music producer at the gym pushed Evans into the studio to take a chance on music. He released a trio of singles in 2018, highlighting his upbeat, energetic direction. \u201cBurn Up\u201d and \u201cGo\u201d adopted a Lil Jon vibe with rap-heavy vocals and booming production, while \u201cSummertime\u201d smoothed things out with some romance. In 2019, he headed in a brighter electronic direction with \u201cGet With This.\u201d ~ Neil Z. Yeung"
+ },
+ "facebook_name": "BigDaddySwolls",
+ "followers_count": 2,
+ "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+ "id": 1928555,
+ "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+ "instagram_name": "BIGDADDYSWOLLS",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "BIG DADDY SWOLLS",
+ "translation_artist": false,
+ "twitter_name": "Bigdaddyswolls",
+ "url": "https://genius.com/artists/Big-daddy-swolls",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 586,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 9211366,
+  "annotator_login": "BIGDADDYSWOLLS",
+  "api_path": "/referents/17894225",
+  "classification": "unreviewed",
+  "fragment": "BIG DADDY SWOLLS",
+  "id": 17894225,
+  "is_description": true,
+  "path": "/17894225/Big-daddy-swolls/Big-daddy-swolls",
+  "range": {
+   "content": "BIG DADDY SWOLLS"
+  },
+  "song_id": null,
+  "url": "https://genius.com/17894225/Big-daddy-swolls/Big-daddy-swolls",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1928555",
+   "context": null,
+   "id": 1928555,
+   "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+   "link_title": "BIG DADDY SWOLLS",
+   "title": "BIG DADDY SWOLLS",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Big-daddy-swolls"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17894225",
+    "body": {
+     "plain": "California singer, actor, and fitness enthusiast Big Daddy Swolls delivers party-starting anthems that combine dance-friendly electronic with his smooth rap-inspired vocals. Similar to artists such as Pitbull , Nelly , and Flo Rida , Swolls\u2019 main objective is a good time. He debuted in 2018 with a handful of singles, including \u201cSummertime.\u201d Born Matthew Garrett Evans in the Bay Area, he had a rough upbringing, frequently moving around with his single mom and enduring bullying during his school years. After high school, he enlisted with the Marines and then enrolled at San Jose State University for a degree in management. Moving to Los Angeles, he put his physique to good use and was employed as a bodyguard for the likes of MC Hammer , Nicki Minaj , and others. Around this time, a chance meeting with a music producer at the gym pushed Evans into the studio to take a chance on music. He released a trio of singles in 2018, highlighting his upbeat, energetic direction. \u201cBurn Up\u201d and \u201cGo\u201d adopted a Lil Jon vibe with rap-heavy vocals and booming production, while \u201cSummertime\u201d smoothed things out with some romance. In 2019, he headed in a brighter electronic direction with \u201cGet With This.\u201d ~ Neil Z. Yeung"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 17894225,
+    "pinned": false,
+    "share_url": "https://genius.com/17894225",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/17894225/Big-daddy-swolls/Big-daddy-swolls",
+    "verified": false,
+    "votes_total": 1,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/9211366",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+       "human_readable_role_for_display": "Verified Artist",
+       "id": 9211366,
+       "iq": 586,
+       "login": "BIGDADDYSWOLLS",
+       "name": "BIG DADDY SWOLLS",
+       "role_for_display": "verified_artist",
+       "url": "https://genius.com/BIGDADDYSWOLLS",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/9211366",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 9211366,
+  "iq": 586,
+  "login": "BIGDADDYSWOLLS",
+  "name": "BIG DADDY SWOLLS",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/BIGDADDYSWOLLS",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7816196",
+   "artist_names": "BIG DADDY SWOLLS",
+   "full_title": "Mary Go Round by\u00a0BIG\u00a0DADDY SWOLLS",
+   "header_image_thumbnail_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+   "id": 7816196,
+   "language": "en",
+   "lyrics_owner_id": 9211366,
+   "lyrics_state": "complete",
+   "path": "/Big-daddy-swolls-mary-go-round-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Big-daddy-swolls-mary-go-round-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 4,
+    "day": 1
+   },
+   "release_date_for_display": "April 1, 2022",
+   "release_date_with_abbreviated_month_for_display": "Apr. 1, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Mary Go Round",
+   "title_with_featured": "Mary Go Round",
+   "url": "https://genius.com/Big-daddy-swolls-mary-go-round-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1928555",
+    "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+    "id": 1928555,
+    "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "BIG DADDY SWOLLS",
+    "url": "https://genius.com/artists/Big-daddy-swolls",
+    "iq": 586
+   },
+   "apple_music_id": "1610922161",
+   "apple_music_player_url": "https://genius.com/songs/7816196/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7816196' class='rg_embed_link' data-song-id='7816196'>Read <a href='https://genius.com/Big-daddy-swolls-mary-go-round-lyrics'>\u201cMary Go Round\u201d by BIG\u00a0DADDY SWOLLS</a> on Genius</div> <script crossorigin src='//genius.com/songs/7816196/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Los Angeles",
+   "release_date": "2022-04-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/892017",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1685720447",
+    "full_title": "Diverse by BIG DADDY SWOLLS",
+    "id": 892017,
+    "name": "Diverse",
+    "release_date_for_display": null,
+    "url": "https://genius.com/albums/Big-daddy-swolls/Diverse",
+    "artist": {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9211366,
+    "annotator_login": "BIGDADDYSWOLLS",
+    "api_path": "/referents/25393237",
+    "classification": "needs_exegesis",
+    "fragment": "Mary Go Round",
+    "id": 25393237,
+    "is_description": true,
+    "path": "/25393237/Big-daddy-swolls-mary-go-round/Mary-go-round",
+    "range": {
+     "content": "Mary Go Round"
+    },
+    "song_id": 7816196,
+    "url": "https://genius.com/25393237/Big-daddy-swolls-mary-go-round/Mary-go-round",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7816196",
+     "client_timestamps": {
+      "updated_by_human_at": 1649278238,
+      "lyrics_updated_at": 1647738305
+     },
+     "context": "BIG DADDY SWOLLS",
+     "id": 7816196,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "link_title": "Mary Go Round by\u00a0BIG\u00a0DADDY SWOLLS",
+     "title": "Mary Go Round",
+     "type": "Song",
+     "url": "https://genius.com/Big-daddy-swolls-mary-go-round-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/25393237",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 25393237,
+      "pinned": false,
+      "share_url": "https://genius.com/25393237",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/25393237/Big-daddy-swolls-mary-go-round/Mary-go-round",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9211366",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 9211366,
+         "iq": 586,
+         "login": "BIGDADDYSWOLLS",
+         "name": "BIG DADDY SWOLLS",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/BIGDADDYSWOLLS",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 230,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=PvoPZFbalG8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "artist": "BIG DADDY SWOLLS",
+   "lyrics": "1 ContributorMary Go Round LyricsBIG DADDY SWOLLS\n\nWalk into the club\nPocket full of bands\nWasn\u2019t for me\nJust my friends\nSaw this little thing go\nRound round round\nFine little body rocking\nUp and down\nWhen I make it over\nNow you got a crowd\nWhy you gotta hit em with the\nLooks so loud\nWhy you gotta make em go\nBroke right now\nWhy you gotta tease em cause\nCan't touch now\n\nGot My Grip\n\nYou\u2019ll get it\nNever throw green but tonight I\u2019m with it\nStaring at me\nYeah I get it\nMy money\nNow I\u2019m about to give it\nGlad I get to see two grinds at one time\nFictional thoughts of how to make you mine\nOh My Gawd\nYou Fine\nNow let me see you do that move one more time time time time\nYou might also likeI can see clearly now\nAs you coming near me now\nIts no mystery how\nThis cash keeps falling down\nTo watch Mary go\nRound round round round\nTo watch Mary Go Round\nRound round round round  round\n\n\n\nI like to see\nMary Go Round\nRight Back to Me\nMary Go Round\nHer loving Ain't Free\nMary Go Round\nSo I Pay The Fee to See Mary Go Round\nMary Go\nMary Go Round\nMary Go Round\nMary Go Round\nMary Go\nMary Go Round\nSo I pay the fee to See Mary Go Round\nLooking At Mary\nLike Ah Damn\nAll up in The Face\nBoom Bam\nThe Way she ride the pole\nUp Land\nGot game with her moves\nGrand slam\nYou\u2019re the girl of my dreams for tonight\nWill you be the one\nIf I\u2019m only here one night\nLook so good in out the red light\nMaking it rain till the pockets feel light\nCause bands bands bands\nI\u2019ll throw em\nCause grands grands grands\nI hold em\nIll keep em coming as long as you going\nCall me Big Swoll For the stacks I\u2019m holding\nI like to see\nMary\nRight Back to me\nYeah\nHer loving ain't free\nNah\nSo I pay the fee to see Mary Go Round\n\n\n\nI can see clearly now\nAs you coming near me now\nIts no mystery how\nThis cash keeps falling down\nTo watch Mary go\nRound round round round\nTo watch Mary Go Round\nRound round round round  round\n\n\n\nI like to see\nMary Go Round\nRight Back to Me\nMary Go Round\nHer loving Ain\u2019t Free\nMary Go Round\nSo I Pay The Fee to See Mary Go Round\nMary Go\nMary Go Round\nMary Go Round\nMary Go Round\nMary Go\nMary Go Round\nSo I pay the fee to See Mary Go Round\n\nI can see clearly now\nAs you coming near me now\nIts no mystery how\nThis cash keeps falling down\n\nSo I pay the Fee to See Mary Go Round\nMary Go\nMary Go Round\nMary go\nSo I pay the fee to see mary go round\nMary Go\nMary Go Round\nMary go\nMary Go Round\nMary Go RoundEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4812933",
+   "artist_names": "BIG DADDY SWOLLS (Ft. BIG DADDY SWOLLS)",
+   "full_title": "BURN UP by\u00a0BIG\u00a0DADDY SWOLLS (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+   "header_image_thumbnail_url": "https://images.genius.com/b652c2cd2bfe95a408cdeb122c780d8a.238x238x1.jpg",
+   "header_image_url": "https://images.genius.com/b652c2cd2bfe95a408cdeb122c780d8a.238x238x1.jpg",
+   "id": 4812933,
+   "language": "en",
+   "lyrics_owner_id": 9211366,
+   "lyrics_state": "complete",
+   "path": "/Big-daddy-swolls-burn-up-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Big-daddy-swolls-burn-up-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 6,
+    "day": 29
+   },
+   "release_date_for_display": "June 29, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jun. 29, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b652c2cd2bfe95a408cdeb122c780d8a.238x238x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b652c2cd2bfe95a408cdeb122c780d8a.238x238x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "BURN UP",
+   "title_with_featured": "BURN UP (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+   "url": "https://genius.com/Big-daddy-swolls-burn-up-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1928555",
+    "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+    "id": 1928555,
+    "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "BIG DADDY SWOLLS",
+    "url": "https://genius.com/artists/Big-daddy-swolls",
+    "iq": 586
+   },
+   "apple_music_id": "1386456293",
+   "apple_music_player_url": "https://genius.com/songs/4812933/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4812933' class='rg_embed_link' data-song-id='4812933'>Read <a href='https://genius.com/Big-daddy-swolls-burn-up-lyrics'>\u201cBURN UP\u201d by BIG\u00a0DADDY SWOLLS</a> on Genius</div> <script crossorigin src='//genius.com/songs/4812933/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-06-29",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9211366,
+    "annotator_login": "BIGDADDYSWOLLS",
+    "api_path": "/referents/17894307",
+    "classification": "needs_exegesis",
+    "fragment": "BURN UP",
+    "id": 17894307,
+    "is_description": true,
+    "path": "/17894307/Big-daddy-swolls-burn-up/Burn-up",
+    "range": {
+     "content": "BURN UP"
+    },
+    "song_id": 4812933,
+    "url": "https://genius.com/17894307/Big-daddy-swolls-burn-up/Burn-up",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4812933",
+     "client_timestamps": {
+      "updated_by_human_at": 1570334365,
+      "lyrics_updated_at": 1566872588
+     },
+     "context": "BIG DADDY SWOLLS",
+     "id": 4812933,
+     "image_url": "https://images.genius.com/b652c2cd2bfe95a408cdeb122c780d8a.238x238x1.jpg",
+     "link_title": "BURN UP by\u00a0BIG\u00a0DADDY SWOLLS (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+     "title": "BURN UP",
+     "type": "Song",
+     "url": "https://genius.com/Big-daddy-swolls-burn-up-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17894307",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17894307,
+      "pinned": false,
+      "share_url": "https://genius.com/17894307",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17894307/Big-daddy-swolls-burn-up/Burn-up",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9211366",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 9211366,
+         "iq": 586,
+         "login": "BIGDADDYSWOLLS",
+         "name": "BIG DADDY SWOLLS",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/BIGDADDYSWOLLS",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "user 425666157",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/user-425666157/burn-up"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=dHy_n1PZF9A"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1928556",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "id": 1928556,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matthew Garrett Evans",
+     "url": "https://genius.com/artists/Matthew-garrett-evans"
+    }
+   ],
+   "artist": "BIG DADDY SWOLLS",
+   "lyrics": "1 ContributorBURN UP LyricsWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn\u2005up\u2005roll up\nYeah you\u2005know I bur bur bur bur\u2005bur bur\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I bur bur bur bur bur bur\n\nWatch me turn Watch me\nWatch me turn Watch me\nWatch me turn Watch me turn\nWatch me turn\nWatch me Watch me turn\nWatch me Watch me turn\nWatch me turn Watch me\nWatch me turn Watch me turn\n\nBACK UP! BACK UP! BACK UP!\nMan you might get crinkled up\nThis upbeat Beat beating\nMight get you beat down or beating up\nKNOCK EM DOWN! KNOCK EM OUT!\nYeah man we all the way retarded\nWe roll up Turn up burn up\nThese bodies become bombarded\nBEAT EM! BEAT EM!\nSo obnoxious and malicious\nAggressive Antagonist\nHow and why we get so vicious\nTook demented infected\nNeglected rejected and dissed\nMixed reckless tormented rebellious\nAnd injected them this\nYou might also likeWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I bur bur bur bur bur bur\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I bur bur bur bur bur bur\n\nBur bur bur bur bur bur bur bur bur\nBur bur bur bur bur bur bur bur\nBur bur bur bur bur bur bur bur bur bur bur\nBur bur bur bur bur bur bur bur bur bur bur bur\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I bur bur bur bur bur bur\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I bur bur bur bur bur bur\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I bur bur bur bur bur bur\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWhooe whoeee whoeee\n\nBACK UP! BACK UP! BACK UP!\nMan you might get crinkled up\nThis upbeat Beat beating\nMight get you beat down or beating up\nKNOCK EM DOWN! KNOCK EM OUT!\nYeah man we all the way retarded\nWe roll up Turn up burn up\nThese bodies become bombarded\nBEAT EM! BEAT EM!\nSo obnoxious and malicious\nAggressive Antagonist\nHow and why we get so vicious\nTook demented\nInfected neglected\nRejected and dissed\nMixed reckless\nTormented rebellious\nAnd injected them this\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I burn bur bur bur bur bur\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I bur bur bur bur bur bur\n\nBur bur bur bur bur bur bur bur bur\nBur bur bur bur bur bur bur bur\nBur bur bur bur bur bur\nBur bur bur bur bur Bur bur\nBur bur bur bur bur bur bur bur bur bur\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I bur bur bur bur bur bur\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I burn bur bur bur bur bur\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I burn bur bur bur bur bur\n\nWatch me turn up roll up\nYeah you know I burn up burn up\n\nWatch me turn up roll up\nYeah you know I burn up burn upEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4812935",
+   "artist_names": "BIG DADDY SWOLLS (Ft. BIG DADDY SWOLLS)",
+   "full_title": "Get With This Remix by\u00a0BIG\u00a0DADDY SWOLLS (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+   "header_image_thumbnail_url": "https://images.genius.com/a105b15cfc0fb6f5d61493b6864b1d90.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a105b15cfc0fb6f5d61493b6864b1d90.500x500x1.jpg",
+   "id": 4812935,
+   "language": "en",
+   "lyrics_owner_id": 9211366,
+   "lyrics_state": "complete",
+   "path": "/Big-daddy-swolls-get-with-this-remix-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Big-daddy-swolls-get-with-this-remix-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 5,
+    "day": 17
+   },
+   "release_date_for_display": "May 17, 2019",
+   "release_date_with_abbreviated_month_for_display": "May. 17, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a105b15cfc0fb6f5d61493b6864b1d90.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a105b15cfc0fb6f5d61493b6864b1d90.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Get With This Remix",
+   "title_with_featured": "Get With This Remix (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+   "url": "https://genius.com/Big-daddy-swolls-get-with-this-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1928555",
+    "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+    "id": 1928555,
+    "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "BIG DADDY SWOLLS",
+    "url": "https://genius.com/artists/Big-daddy-swolls",
+    "iq": 586
+   },
+   "apple_music_id": "1468537747",
+   "apple_music_player_url": "https://genius.com/songs/4812935/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4812935' class='rg_embed_link' data-song-id='4812935'>Read <a href='https://genius.com/Big-daddy-swolls-get-with-this-remix-lyrics'>\u201cGet With This Remix\u201d by BIG\u00a0DADDY SWOLLS</a> on Genius</div> <script crossorigin src='//genius.com/songs/4812935/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Los Angeles",
+   "release_date": "2019-05-17",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9211366,
+    "annotator_login": "BIGDADDYSWOLLS",
+    "api_path": "/referents/17894319",
+    "classification": "needs_exegesis",
+    "fragment": "Get With This Remix",
+    "id": 17894319,
+    "is_description": true,
+    "path": "/17894319/Big-daddy-swolls-get-with-this-remix/Get-with-this-remix",
+    "range": {
+     "content": "Get With This Remix"
+    },
+    "song_id": 4812935,
+    "url": "https://genius.com/17894319/Big-daddy-swolls-get-with-this-remix/Get-with-this-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4812935",
+     "client_timestamps": {
+      "updated_by_human_at": 1570334358,
+      "lyrics_updated_at": 1567842391
+     },
+     "context": "BIG DADDY SWOLLS",
+     "id": 4812935,
+     "image_url": "https://images.genius.com/a105b15cfc0fb6f5d61493b6864b1d90.500x500x1.jpg",
+     "link_title": "Get With This Remix by\u00a0BIG\u00a0DADDY SWOLLS (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+     "title": "Get With This Remix",
+     "type": "Song",
+     "url": "https://genius.com/Big-daddy-swolls-get-with-this-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17894319",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17894319,
+      "pinned": false,
+      "share_url": "https://genius.com/17894319",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17894319/Big-daddy-swolls-get-with-this-remix/Get-with-this-remix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9211366",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 9211366,
+         "iq": 586,
+         "login": "BIGDADDYSWOLLS",
+         "name": "BIG DADDY SWOLLS",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/BIGDADDYSWOLLS",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "bigdaddyswolls",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/bigdaddyswolls/get-with-this-remix-big-daddy-swolls"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=t9FgcpEWmr8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1928556",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "id": 1928556,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matthew Garrett Evans",
+     "url": "https://genius.com/artists/Matthew-garrett-evans"
+    }
+   ],
+   "artist": "BIG DADDY SWOLLS",
+   "lyrics": "1 ContributorGet With This Remix LyricsIll be the one you can love on\nIll be the one you can call on\nAnd\u2005the\u2005love I have\u2005for you is so strong\nIm right\u2005over here mama so please don\u2019t do wrong\n\nWhen I saw you I said HEY HEY HEY\nSorry to disturb but can I GET YOUR NAME\nMay I have your number cause I CANT DELAY\nPlan on making you my BA A BY\n\nLoving you little mama YOUR STYLE\nGot me going crazy GONE WILD\nHips start to move can't help but smile\nCoke bottle shape to fit the profile\n\nI want it\n\nBelieve it\n\nWhen you look in my eyes you can see it\n\nCome be\n\nWith me\n\nTake you everywhere you wanna be\nYou might also likeYou can get with this or you can get with that\nLoving how your hands up throwing that back\nCome on pretty mama don\u2019t hurt em like that\nGo and tell your people you ain't going right back\n\nGet with this or get with that\nGet with that\nGet with that\nGet with that\nGet with that\nGet with that\nGet with that\n\nNow little mama throw that back\nThrow that back\nThrow that back\nThrow that back\nThrow that back\nThrow that back\nThrow that back\nGet with this or get with that\n\nIll be the one you can love on\nIll be the one you can call on\nAnd the love I have for you is so strong\nIm right over here mama so please don\u2019t do wrong\nSay im gonna leave you say GO GO GO\nThe Love is there but too proud to show\nSay I wanna stay I say NO NO NO\nCrazy over you but we go TOE TO TOE\n\nFor your love\n\nIm an addict\n\nCan't get enough\n\nGot to have it\n\nI gotta keep your love I gotta keep it charismatic\nMy love for you is always and forever automatic\n\nYou can get with this or you can get with that\nLoving how your hands up throwing that back\nCome on pretty mama don\u2019t hurt em like that\nGo and tell your people you ain't going right back\n\nGet with this or get with that\nGet with that\nGet with that\nGet with that\nGet with that\nGet with that\nGet with that\nNow little mama throw that back\nThrow that back\nThrow that back\nThrow that back\nThrow that back\nThrow that back\nThrow that back\nGet with this or get with that\n\nI See you walk in the party with you and all your friends\nThe ladies and men know you stunting up on them\nYour body starts to sway YOUR BODY STARTS TO SWAY\nHips yelling at the crowd yo get up out the way\n\nYeah you lavish\n\nYou da baddest\n\nI\u2019m Looking at ma you want me to come grab it\nNo way to work out better even if I planed it\nAs quick as you showed up is as quick as we vanished\n\nYou can get with this or you can get with that\nLoving how your hands up throwing that back\nCome on pretty mama don\u2019t hurt em like that\nGo and tell your people you ain't going right back\n\nGet with this or get with that\nGet with that\nGet with that\nGet with that\nGet with that\nGet with that\nGet with that\n\nNow little mama throw that back\nThrow that back\nThrow that back\nThrow that back\nThrow that back\nThrow that back\nBa ba ba ba ba\n\nYou can get with this or you can get with that\nLoving how your hands up throwing that back\nCome on pretty mama don\u2019t hurt em like that\nGo and tell your people you ain't going right back\n\nYou can get with this or you can get with that\nLoving how your hands up throwing that back\nCome on pretty mama don\u2019t hurt em like that\nTell your people you ain't going right back\n\nGet with this or get with that\nGet with that\nGet with that\nGet with that\nGet with that\nGet with that\nGet with that\n\nNow little mama throw that back\nThrow that back\nThrow that back\nThrow that back\nThrow that back\nThrow that back\n\nGet With This or Get With That2Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/6367876",
+   "artist_names": "BIG DADDY SWOLLS",
+   "full_title": "Roll It Back by\u00a0BIG\u00a0DADDY SWOLLS",
+   "header_image_thumbnail_url": "https://images.genius.com/11ca3cf3ef3a49c5b1aed752d36e7b7b.300x63x1.jpg",
+   "header_image_url": "https://images.genius.com/11ca3cf3ef3a49c5b1aed752d36e7b7b.1000x209x1.jpg",
+   "id": 6367876,
+   "language": "en",
+   "lyrics_owner_id": 9211366,
+   "lyrics_state": "complete",
+   "path": "/Big-daddy-swolls-roll-it-back-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Big-daddy-swolls-roll-it-back-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 2,
+    "day": 15
+   },
+   "release_date_for_display": "February 15, 2021",
+   "release_date_with_abbreviated_month_for_display": "Feb. 15, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0378355793722a883c40b262888509d5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0378355793722a883c40b262888509d5.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Roll It Back",
+   "title_with_featured": "Roll It Back",
+   "url": "https://genius.com/Big-daddy-swolls-roll-it-back-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1928555",
+    "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+    "id": 1928555,
+    "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "BIG DADDY SWOLLS",
+    "url": "https://genius.com/artists/Big-daddy-swolls",
+    "iq": 586
+   },
+   "apple_music_id": "1547038361",
+   "apple_music_player_url": "https://genius.com/songs/6367876/apple_music_player",
+   "description": {
+    "plain": ""
+   },
+   "embed_content": "<div id='rg_embed_link_6367876' class='rg_embed_link' data-song-id='6367876'>Read <a href='https://genius.com/Big-daddy-swolls-roll-it-back-lyrics'>\u201cRoll It Back\u201d by BIG\u00a0DADDY SWOLLS</a> on Genius</div> <script crossorigin src='//genius.com/songs/6367876/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Los Angeles",
+   "release_date": "2021-02-15",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/739256",
+    "cover_art_url": "https://images.genius.com/d90019bff955a3f85389fc1ddc2ad44e.1000x1000x1.jpg",
+    "full_title": "Roll It Back by BIG DADDY SWOLLS",
+    "id": 739256,
+    "name": "Roll It Back",
+    "release_date_for_display": "February 15, 2021",
+    "url": "https://genius.com/albums/Big-daddy-swolls/Roll-it-back",
+    "artist": {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9211366,
+    "annotator_login": "BIGDADDYSWOLLS",
+    "api_path": "/referents/21853992",
+    "classification": "cosigned",
+    "fragment": "Roll It Back",
+    "id": 21853992,
+    "is_description": true,
+    "path": "/21853992/Big-daddy-swolls-roll-it-back/Roll-it-back",
+    "range": {
+     "content": "Roll It Back"
+    },
+    "song_id": 6367876,
+    "url": "https://genius.com/21853992/Big-daddy-swolls-roll-it-back/Roll-it-back",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6367876",
+     "client_timestamps": {
+      "updated_by_human_at": 1614113577,
+      "lyrics_updated_at": 1610387681
+     },
+     "context": "BIG DADDY SWOLLS",
+     "id": 6367876,
+     "image_url": "https://images.genius.com/0378355793722a883c40b262888509d5.500x500x1.jpg",
+     "link_title": "Roll It Back by\u00a0BIG\u00a0DADDY SWOLLS",
+     "title": "Roll It Back",
+     "type": "Song",
+     "url": "https://genius.com/Big-daddy-swolls-roll-it-back-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21853992",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21853992,
+      "pinned": false,
+      "share_url": "https://genius.com/21853992",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/21853992/Big-daddy-swolls-roll-it-back/Roll-it-back",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9211366",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 9211366,
+         "iq": 586,
+         "login": "BIGDADDYSWOLLS",
+         "name": "BIG DADDY SWOLLS",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/BIGDADDYSWOLLS",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [
+       {
+        "api_path": "/users/9211366",
+        "avatar": {
+         "tiny": {
+          "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+          "bounding_box": {
+           "width": 16,
+           "height": 16
+          }
+         },
+         "thumb": {
+          "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+          "bounding_box": {
+           "width": 32,
+           "height": 32
+          }
+         },
+         "small": {
+          "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+          "bounding_box": {
+           "width": 100,
+           "height": 100
+          }
+         },
+         "medium": {
+          "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+          "bounding_box": {
+           "width": 300,
+           "height": 400
+          }
+         }
+        },
+        "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+        "human_readable_role_for_display": "Verified Artist",
+        "id": 9211366,
+        "iq": 586,
+        "login": "BIGDADDYSWOLLS",
+        "name": "BIG DADDY SWOLLS",
+        "role_for_display": "verified_artist",
+        "url": "https://genius.com/BIGDADDYSWOLLS",
+        "current_user_metadata": {
+         "permissions": [],
+         "excluded_permissions": [
+          "follow"
+         ],
+         "interactions": {
+          "following": false
+         }
+        }
+       }
+      ],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "bigdaddyswolls",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/bigdaddyswolls/rollitback"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=jyFD-s4nHxg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2557185",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "id": 2557185,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "El Mexi Cunt",
+     "url": "https://genius.com/artists/El-mexi-cunt"
+    },
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/1928555",
+      "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+      "id": 1928555,
+      "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "BIG DADDY SWOLLS",
+      "url": "https://genius.com/artists/Big-daddy-swolls",
+      "iq": 586
+     },
+     "user": {
+      "api_path": "/users/9211366",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 9211366,
+      "iq": 586,
+      "login": "BIGDADDYSWOLLS",
+      "name": "BIG DADDY SWOLLS",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/BIGDADDYSWOLLS",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "artist": "BIG DADDY SWOLLS",
+   "lyrics": "1 ContributorRoll It Back Lyrics(Intro)\nLittle mama where the base at\nLittle mama where the base at\n\nBIG DADDY SWOLLS\n\nLittle mama where the base at\nLittle mama where the base at\n\nBase At\n\nBase Base Base At\n\n(Verse 1)\nWatch this big boy watch that big back\nI can go hard you should know that\nDon\u2019t run off Ma\nWhere that thing at?\nUhhhh\nAhhhhh there\u2019s the Pootie cat\n\nYeah she like that\nYeah she want it in\nYeah she want it rougher\nI get it all in\nYou might also likeWake the cheeks up\nWith compression\nBout to crack in and teach this crack a lesson\n\nWatch you back that\nWatch me tack that\nWatch you grab cat\nWatch me pack that\n\nShe got a backpack?\nYeah she got a backpack\nOh yeah dang right she got a backpack\n\n(Chorus)\nRoll it back\nRoll it back\nRoll it back\n\nYeah I like that she put the base on it\n\nRoll it back\nRoll it back\nRoll it back\n\nYeah I like that she put the base on it\nLittle mama where the base at Base at\n\nBase on it\n\nLittle mama where the base at base at\n\nBase base base\nBase base base at\n\n(Verse 2)\nGot the big hips\nGot the thick thighs\nGot the tight grip\nOn the inside\n\nDrip on them lips\nMade a war cry\nBout to conquer these cheeks\n\nDivide\n\nPush the Base up\nPush the base back\nPush the base down\n\nJust like that\nBeat the subs up\nTill they talk back\n\nUGH UGHH UGHHHH\n\nLike that\n\nYeah I\u2019m real thick\nYeah that back phat\nMade a wet mess\nAnd she like that\n\nYeaaaah\nI like that\nShe put the base on it and roll it back\n\n(Chorus)\nRoll it back\nRoll it back\nRoll it back\n\nYeah I like that she put the base on it\n\nRoll it back\nRoll it back\nRoll it back\n\nYeah I like that she put the base on it\n\nLittle mama where the base at base at\n\nBase at\n\nLittle mama where the base at base at\n\nBase base base base base\n\nLittle mama where the base at base at\n\nBase at\n\nLittle mama where the base at base at\n\n(Outro)\nBaaaaaaaase at\n\nRoll it back\nRoll it back\nRoll it back\n\nYeah I like that she put the base on it\n\nRoll it back\nBase base base\n\nRoll it back\nBase base base\n\nRoll it back\nBase base base\n\nLittle mama where the base base base atEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4812926",
+   "artist_names": "BIG DADDY SWOLLS (Ft. BIG DADDY SWOLLS)",
+   "full_title": "Get With This by\u00a0BIG\u00a0DADDY SWOLLS (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+   "header_image_thumbnail_url": "https://images.genius.com/6a7a3b3f6afa32276ee216f550462ac4.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6a7a3b3f6afa32276ee216f550462ac4.500x500x1.jpg",
+   "id": 4812926,
+   "language": "en",
+   "lyrics_owner_id": 9211366,
+   "lyrics_state": "complete",
+   "path": "/Big-daddy-swolls-get-with-this-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Big-daddy-swolls-get-with-this-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 4,
+    "day": 1
+   },
+   "release_date_for_display": "April 1, 2019",
+   "release_date_with_abbreviated_month_for_display": "Apr. 1, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6a7a3b3f6afa32276ee216f550462ac4.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6a7a3b3f6afa32276ee216f550462ac4.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Get With This",
+   "title_with_featured": "Get With This (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+   "url": "https://genius.com/Big-daddy-swolls-get-with-this-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1928555",
+    "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+    "id": 1928555,
+    "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "BIG DADDY SWOLLS",
+    "url": "https://genius.com/artists/Big-daddy-swolls",
+    "iq": 586
+   },
+   "apple_music_id": "1468537747",
+   "apple_music_player_url": "https://genius.com/songs/4812926/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4812926' class='rg_embed_link' data-song-id='4812926'>Read <a href='https://genius.com/Big-daddy-swolls-get-with-this-lyrics'>\u201cGet With This\u201d by BIG\u00a0DADDY SWOLLS</a> on Genius</div> <script crossorigin src='//genius.com/songs/4812926/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-04-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9211366,
+    "annotator_login": "BIGDADDYSWOLLS",
+    "api_path": "/referents/17894245",
+    "classification": "needs_exegesis",
+    "fragment": "Get With This",
+    "id": 17894245,
+    "is_description": true,
+    "path": "/17894245/Big-daddy-swolls-get-with-this/Get-with-this",
+    "range": {
+     "content": "Get With This"
+    },
+    "song_id": 4812926,
+    "url": "https://genius.com/17894245/Big-daddy-swolls-get-with-this/Get-with-this",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4812926",
+     "client_timestamps": {
+      "updated_by_human_at": 1570334389,
+      "lyrics_updated_at": 1566714504
+     },
+     "context": "BIG DADDY SWOLLS",
+     "id": 4812926,
+     "image_url": "https://images.genius.com/6a7a3b3f6afa32276ee216f550462ac4.500x500x1.jpg",
+     "link_title": "Get With This by\u00a0BIG\u00a0DADDY SWOLLS (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+     "title": "Get With This",
+     "type": "Song",
+     "url": "https://genius.com/Big-daddy-swolls-get-with-this-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17894245",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17894245,
+      "pinned": false,
+      "share_url": "https://genius.com/17894245",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17894245/Big-daddy-swolls-get-with-this/Get-with-this",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9211366",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 9211366,
+         "iq": 586,
+         "login": "BIGDADDYSWOLLS",
+         "name": "BIG DADDY SWOLLS",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/BIGDADDYSWOLLS",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "user 425666157",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/user-425666157/get-with-this"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=QI90o1_FI7o"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1928556",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "id": 1928556,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matthew Garrett Evans",
+     "url": "https://genius.com/artists/Matthew-garrett-evans"
+    }
+   ],
+   "artist": "BIG DADDY SWOLLS",
+   "lyrics": "1 ContributorGet With This LyricsIll be the one you can always love on\nIll be the one you can always\u2005call\u2005on\nAnd the love\u2005I have for you is so\u2005strong\nIm right over here mama so please don\u2019t do wrong\n\nWhen I saw you I said    HEY HEY HEY\nSorry to disturb but can I  GET YOUR NAME\nMay I have your number cause I CANT DELAY\nPlan on making you my BA A BY\n\nLoving you little mama   YOUR STYLE\nGot me going crazy   GONE WILD\nHips start to move can't help but smile\nCoke bottle shape to fit the profile\nI want it\nBelive it\nWhen you look in my eyes you can  see it\nCome be\nWith me\nTake you everywhere you wanna be\n\nYou can get with this or you can get with that\nLoving how your hands up throwing that back\nCome on pretty mama don\u2019t hurt em like that\nAnd go and tell your people you ain't going right back\nYou might also likeYou can get with this or you can get with that\nTake a chance with him or run with the bag\nCome on pretty mama don\u2019t hurt em like that\nAnd go and tell your people you ain't coming right back\n\nIll be the one you can always love on\nIll be the one you can always call on\nAnd the love I have for you is so strong\nIm right over here mama so please don\u2019t do wrong\n\nIll be the one you can always love on\nIll be the one you can always call on\nAnd the love I have for you is so strong\nIm right over here mama so please don\u2019t do wrong\n\nSay im gonna leave you say  GO GO GO\nThe Love is there but too proud to show\nSay I wanna stay I say NO NO NO\nCrazy over you but we go TOE TO TOE\n\n\nFor your love\nIm an attic\nCan't get enough\nGot to have it\nI gotta keep your love I gotta keep it charismatic\nMy love for you is always and forever automatic\nYou can get with this or you can get with that\nLoving how your hands up throwing that back\nCome on pretty mama don\u2019t hurt em like that\nAnd go and tell your people you ain't going right back\n\nYou can get with this or you can get with that\nTake a chance with him or run with the bag\nCome on pretty mama don\u2019t hurt em like that\nAnd go and tell your people you ain't coming right back\n\nI See you walk in the party with you and all your friends\nThe women and men know you stunting up on them\nYour body starts to sway  YOUR BODY STARTS TO SWAY\nHips yelling at the crowd yo get up out the way\nYeah you lavish\nYou da baddest\nI\u2019m Looking at ma you want me to come grab it\nNow way to work out better even if I planed it\nAs quick as you showed up is as quick as we vanished\n\nYou can get with this or you can get with that\nLoving how your hands up throwing that back\nCome on pretty mama don\u2019t hurt em like that\nAnd go and tell your people you ain't going right back\n\nYou can get with this or you can get with that\nTake a chance with him or run with the bag\nCome on pretty mama don\u2019t hurt em like that\nAnd go and tell your people you ain't coming right back\nYou can get with this or you can get with that\nLoving how your hands up throwing that back\nCome on pretty mama don\u2019t hurt em like that\nAnd go and tell your people you ain't going right back\n\nYou can get with this or you can get with that\nTake a chance with him or run with the bag\nCome on pretty mama don\u2019t hurt em like that\nAnd go and tell your people you ain't coming right backEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4812930",
+   "artist_names": "BIG DADDY SWOLLS (Ft. BIG DADDY SWOLLS)",
+   "full_title": "GO by\u00a0BIG\u00a0DADDY SWOLLS (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+   "header_image_thumbnail_url": "https://images.genius.com/63638bc22cd2948bbe0b2f80886b52ba.236x238x1.jpg",
+   "header_image_url": "https://images.genius.com/63638bc22cd2948bbe0b2f80886b52ba.236x238x1.jpg",
+   "id": 4812930,
+   "language": "en",
+   "lyrics_owner_id": 9211366,
+   "lyrics_state": "complete",
+   "path": "/Big-daddy-swolls-go-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Big-daddy-swolls-go-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 10,
+    "day": 11
+   },
+   "release_date_for_display": "October 11, 2018",
+   "release_date_with_abbreviated_month_for_display": "Oct. 11, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/63638bc22cd2948bbe0b2f80886b52ba.236x238x1.jpg",
+   "song_art_image_url": "https://images.genius.com/63638bc22cd2948bbe0b2f80886b52ba.236x238x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "GO",
+   "title_with_featured": "GO (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+   "url": "https://genius.com/Big-daddy-swolls-go-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1928555",
+    "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+    "id": 1928555,
+    "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "BIG DADDY SWOLLS",
+    "url": "https://genius.com/artists/Big-daddy-swolls",
+    "iq": 586
+   },
+   "apple_music_id": "1438675994",
+   "apple_music_player_url": "https://genius.com/songs/4812930/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4812930' class='rg_embed_link' data-song-id='4812930'>Read <a href='https://genius.com/Big-daddy-swolls-go-lyrics'>\u201cGO\u201d by BIG\u00a0DADDY SWOLLS</a> on Genius</div> <script crossorigin src='//genius.com/songs/4812930/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-10-11",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9211366,
+    "annotator_login": "BIGDADDYSWOLLS",
+    "api_path": "/referents/17894290",
+    "classification": "needs_exegesis",
+    "fragment": "GO",
+    "id": 17894290,
+    "is_description": true,
+    "path": "/17894290/Big-daddy-swolls-go/Go",
+    "range": {
+     "content": "GO"
+    },
+    "song_id": 4812930,
+    "url": "https://genius.com/17894290/Big-daddy-swolls-go/Go",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4812930",
+     "client_timestamps": {
+      "updated_by_human_at": 1570334374,
+      "lyrics_updated_at": 1568057076
+     },
+     "context": "BIG DADDY SWOLLS",
+     "id": 4812930,
+     "image_url": "https://images.genius.com/63638bc22cd2948bbe0b2f80886b52ba.236x238x1.jpg",
+     "link_title": "GO by\u00a0BIG\u00a0DADDY SWOLLS (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+     "title": "GO",
+     "type": "Song",
+     "url": "https://genius.com/Big-daddy-swolls-go-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17894290",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17894290,
+      "pinned": false,
+      "share_url": "https://genius.com/17894290",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17894290/Big-daddy-swolls-go/Go",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9211366",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 9211366,
+         "iq": 586,
+         "login": "BIGDADDYSWOLLS",
+         "name": "BIG DADDY SWOLLS",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/BIGDADDYSWOLLS",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "user 425666157",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/user-425666157/go-radio-edit"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=iSJ-Wc3ptzM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1928556",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "id": 1928556,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matthew Garrett Evans",
+     "url": "https://genius.com/artists/Matthew-garrett-evans"
+    }
+   ],
+   "artist": "BIG DADDY SWOLLS",
+   "lyrics": "1 ContributorGO LyricsBIG DADDY SWOLLS\n\nYou wanna hate on the status\nOf the biggest and baddest coolest\nSwollest best lookinest\u2005pimpinest\u2005guy\nOn the planet\nMan\u2005I laugh at all this\nNot giving\u2005respect\nAnd when its due\nYou dismiss I swear you planed this\n\nMake no mistake too much on my plate to procrastinate\nOnly a few can Relate when trying to elevate\nYou need to concentrate calculate Formulate\nThats how you dominate\nNow take a break\n\nAnd let that Marinate\n\nYo mr none motivated\nI'm fascinated\nWhy you over in the Corner\nFrustrated and irritated\nIs it because of the cards that i Hold and you hate it\nOr cause your bank role and your little muscle You got is deflated\nYou might also likeSheesh\n\nSo dang agitated\nI think your really upset\nYou didn't make it\nAh hold up\nWhat time is it bro\nAh man yo\n\nI GOTTA GO\n\nWatch who you call your friends\nWhen you got money to spend\nWhen they be Faking pretend\n\nI GOTTA GO\n\nThey try to dim my shine\nThey keep tugging On mine\nYo you crossing the line\n\nI GOTTA GO\n\nTry to pull me off track\nAin't no way to go back\nI got my mode on attack\nI GOTTA GO\n\nI got no Time to waste\nI got dreams to chase\nI be winning this race\n\nI GOTTA GO go go\n\nIf you be the stop then i'm none stop\nI'm booking straight through Playa\nI ain't stoping keep it popping\nAlways watching real talking\nBeg your pardon watch your caution no imposters\n\nAyeee\n\nIf you be the top Then im drop top\nI'm passing hatters see you later\nLife up in the fast Lane\nWe them boys hold them toys\nKill that noise wheres the joy\nWhy Destroy we employ\nTime to work playa\n\nI'm way too motivated\nMy Accelerated self generated\nNeed to succeed\nHas competition terminated\nHatters are are hot\nI'm so cool refrigerated\nNever manipulated\nAlways know where my goals are located\nYou shooting hateful emotional Arsenal ammo\nJust like a commando\nAll just to cast a shadow over my Show\nMember when we used to be friends long time ago\nOr so i thought though but yo\n\nI GOTTA GO\n\nWatch who you call your friends\nWhen you got money to spend\nWhen they be Faking pretend\n\nI GOTTA GO\n\nThey try to dim my shine\nThey keep tugging On mine\nYo you crossing the line\n\nI GOTTA GO\n\nTry to pull me off track\nAin't no way to go back\nI got my mode on attack\n\nI GOTTA GO\n\nI got no Time to waste\nI got dreams to chase\nI be winning this race\n\nI GOTTA GO go go\n\nI GOTTA GO\n\nWatch who you call your friends\nWhen you got money to spend\nWhen they be Faking pretend\n\nI GOTTA GO\n\nThey try to dim my shine\nThey keep tugging On mine\nYo you crossing the line\n\nI GOTTA GO\n\nTry to pull me off track\nAin't no way to go back\nI got my mode on attack\n\nI GOTTA GO\n\nI got no Time to waste\nI got dreams to chase\nI be winning this race\n\nI GOTTA GO go goEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4812929",
+   "artist_names": "BIG DADDY SWOLLS (Ft. BIG DADDY SWOLLS)",
+   "full_title": "Summertime by\u00a0BIG\u00a0DADDY SWOLLS (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+   "header_image_thumbnail_url": "https://images.genius.com/f9f02f2500e5f987fe416ec4eac8f275.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f9f02f2500e5f987fe416ec4eac8f275.500x500x1.jpg",
+   "id": 4812929,
+   "language": "en",
+   "lyrics_owner_id": 9211366,
+   "lyrics_state": "complete",
+   "path": "/Big-daddy-swolls-summertime-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Big-daddy-swolls-summertime-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 6,
+    "day": 29
+   },
+   "release_date_for_display": "June 29, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jun. 29, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f9f02f2500e5f987fe416ec4eac8f275.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f9f02f2500e5f987fe416ec4eac8f275.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Summertime",
+   "title_with_featured": "Summertime (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+   "url": "https://genius.com/Big-daddy-swolls-summertime-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1928555",
+    "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+    "id": 1928555,
+    "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "BIG DADDY SWOLLS",
+    "url": "https://genius.com/artists/Big-daddy-swolls",
+    "iq": 586
+   },
+   "apple_music_id": "1386556846",
+   "apple_music_player_url": "https://genius.com/songs/4812929/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4812929' class='rg_embed_link' data-song-id='4812929'>Read <a href='https://genius.com/Big-daddy-swolls-summertime-lyrics'>\u201cSummertime\u201d by BIG\u00a0DADDY SWOLLS</a> on Genius</div> <script crossorigin src='//genius.com/songs/4812929/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-06-29",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9211366,
+    "annotator_login": "BIGDADDYSWOLLS",
+    "api_path": "/referents/17894272",
+    "classification": "needs_exegesis",
+    "fragment": "Summertime",
+    "id": 17894272,
+    "is_description": true,
+    "path": "/17894272/Big-daddy-swolls-summertime/Summertime",
+    "range": {
+     "content": "Summertime"
+    },
+    "song_id": 4812929,
+    "url": "https://genius.com/17894272/Big-daddy-swolls-summertime/Summertime",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4812929",
+     "client_timestamps": {
+      "updated_by_human_at": 1570334381,
+      "lyrics_updated_at": 1567973777
+     },
+     "context": "BIG DADDY SWOLLS",
+     "id": 4812929,
+     "image_url": "https://images.genius.com/f9f02f2500e5f987fe416ec4eac8f275.500x500x1.jpg",
+     "link_title": "Summertime by\u00a0BIG\u00a0DADDY SWOLLS (Ft.\u00a0BIG\u00a0DADDY SWOLLS)",
+     "title": "Summertime",
+     "type": "Song",
+     "url": "https://genius.com/Big-daddy-swolls-summertime-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17894272",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17894272,
+      "pinned": false,
+      "share_url": "https://genius.com/17894272",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17894272/Big-daddy-swolls-summertime/Summertime",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9211366",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 9211366,
+         "iq": 586,
+         "login": "BIGDADDYSWOLLS",
+         "name": "BIG DADDY SWOLLS",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/BIGDADDYSWOLLS",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "user 425666157",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/user-425666157/summertime"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=c8zBR90KyKA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1928555",
+     "header_image_url": "https://images.genius.com/e3492147a7de36a4c5320a30d8c6b4e7.1000x563x1.jpg",
+     "id": 1928555,
+     "image_url": "https://images.genius.com/d0f0f05187729f018a40b71f424ec4ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BIG DADDY SWOLLS",
+     "url": "https://genius.com/artists/Big-daddy-swolls",
+     "iq": 586
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1928556",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "id": 1928556,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1685720447",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matthew Garrett Evans",
+     "url": "https://genius.com/artists/Matthew-garrett-evans"
+    }
+   ],
+   "artist": "BIG DADDY SWOLLS",
+   "lyrics": "1 ContributorSummertime LyricsShe's wanting Swoll for the summer\nTo beat it up like A drummer\nBig body just like\u2005a\u2005Hummer she wants\u2005to ride\nOh you need a new\u2005trainer?\nGirl ill entertain ya\nBaby that's a no brainer just come inside\n\nBeing away from your man\nAnd getting alone is the plan\nOh he's calling decline your phone died\nYou'll go back when your done\nI know you want to have fun\nAnd with me you won't be denied\n\nIm checking out your body girl\nMmmm yeah you\nDo these pull up here\nBaby girl as I kiss you\nYou love when I do that girl\n\"I GOT YOU\"\nBIG DADDY SWOOPING IN\nSHOOOOOOWP\nTo the rescue\n\nYou playing around like you ain't ready yet\nBut our chemistry is telling me you're ready to sweet\nWe'll take a walk on the pier\nYou'll start pulling me near\nSummertime is here\nYou might also likeBaby got me feeling the heeeeeeat \nBaby got me feeling the baby baby got Got me\nBaby got me felling the heeeeeeat \nBaby got me feeling that\nYeah!\nYeah!\nYeah!\n\nBaby got me feeling the heeeeeeat\nBaby got me feeling the baby baby got Got me\nBaby got me felling the heeeeeeat\nBaby got me felling that\nYeah!\nYeah!\nYeah!\n\nSo we having some fun\nLike two little kids acting Dumb\nAnd the breeze and the weather is just right\nSo lets hop in the whip\nAnd cruise down the Strip\nWhen we shift these gears we take flight\n\nYou got a smile on your face\nCause we in the right place\nBaby that look that you got is on fire\nThat light in your eyes\nCould brighten up Dark skies\nIts something the sun could admire\nWe're having summer fun\nIt's overdue and brand new\nDont Trip\nBIG DADDYS in your life\nTo Spot You\nDoing everything that they told us not to\nBreaking all the rules\nIts Summertime\nWe got to\n\nJust keep it one hundred on and off the Highway\nFrom the bay to LA we'll parlay. \"\nHEY\"\nShe's pulling me near\nWhispering in my ear\nSaying summertime is here\n\nBaby got me feeling the heeeeeeat\nBaby got me feeling the baby baby got Got me\nBaby got me felling the heeeeeeat\nBaby got me felling that\nYeah!\nYeah!\nYeah!\n\nBaby got me feeling the heeeeeeat\nBaby got me feeling the baby baby got Got me\nBaby got me felling the heeeeeeat\nBaby got me felling that\nYeah!\nYeah!\nYeah!\nBaby got baby got baby got me baby\nBaby got baby got me baby got me feeling\nBaby got baby got baby got me feeling\nBaby got me feeling that\nYeah!\nYeah!\nYeah!\n\nBaby got baby got baby got me baby\nBaby got baby got me baby got me feeling\nBaby got baby got baby got me feeling\nBaby got me feeling that\nYeah!\nYeah!\nYeah!\n\nWe doing it\nWe doing it\nThe temperatures real hot\nLoving on the vibe\nYeah they love it a Whole lot\nNone stop party\nRoof drop\nThe drop top\nWherever we party\nYeah baby the best spot\n\nWe loving this four play flame\nThe pregame\nWe've been feigning for this season\nYeah addicted the main vein\nSummers got us moving\nYeah life in the fast lane\nSummertime is here\n\nBaby got me feeling the heeeeeeat \nBaby got me feeling the baby baby got Got me\nBaby got me felling the heeeeeeat \nBaby got me feeling that\nYeah!\nYeah!\nYeah!\n\nBaby got me feeling the heeeeeeat \nBaby got me feeling the baby baby got Got me\nBaby got me felling the heeeeeeat \nBaby got me feeling that\nYeah!\nYeah!\nYeah!\n\nBaby got baby got baby got me baby\nBaby got baby got me feeling baby\nBaby got baby got baby got me baby\nBaby got baby baby got baby got me feeling\nBaby got baby got me feeling baby\nBaby got baby got baby got me baby\nBaby got baby got baby got me baby\nBaby got baby got me feeling that\nYeah!\nYeah!\nYeah!Embed"
+  }
+ ]
+}
