@@ -28,13 +28,13 @@ The need for a Pitbull lyric generation model stems from the immense influence a
 
 Imagine a world where the spirit of Pitbull's music can be channeled at the touch of a button. A Pitbull lyric generation model would unlock a realm of limitless possibilities, allowing fans and artists alike to tap into the essence of Pitbull's genius. From creating catchy hooks that get stuck in your head to penning verses that embody the pulse of the streets, this model would empower users to generate Pitbull-style lyrics that resonate with the energy and vibrancy that defines his music. The impact of such a tool would be immeasurable, sparking a wave of creativity and fostering a community where the spirit of Pitbull lives on through the lyrics of his devotees.
 
-"This for everybody going through tough times
+*"This for everybody going through tough times
 
 Believe me, been there, done that
 
 But every day above ground is a great day, remember that
 
-Dale"
+Dale"*
 - *Time of Our Lives, Pitbull* 
 
 ![Pitbull Generator](./Images/livelaughlove.JPG)
