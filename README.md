@@ -135,4 +135,4 @@ This project uses Hugging Face's [DistilGPT2](https://huggingface.co/distilgpt2)
 
 Me, because of this project: 
 
-![pics](./Images/pics.jpg)
+![pics](./Images/pics.JPG)
