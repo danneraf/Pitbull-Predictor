@@ -6,7 +6,6 @@ import random
 import numpy as np
 from tensorflow.keras.preprocessing import sequence
 import tensorflow as tf
-from PIL import Image
 
 rate = [
     'Not',
