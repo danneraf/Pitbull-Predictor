@@ -1,5 +1,4 @@
 # <img src="https://m.media-amazon.com/images/I/61WHhsyhStL.jpg" width="55" height="55"> READ ME: Pitbull Predictor
-#### Dale
 
 
 ### Contents: 
@@ -147,7 +146,7 @@ As with most projects, this project came with some downfalls and setbacks:
 - Special thanks to the creators of the pre-trained models used in this project, as well as the open-source community for their contributions. 
 - Also, a thank you to those that have made projects modeling [Shakespeare](https://github.com/KenyaChauche/sonnet-generation/tree/master). To me, Pitbull is the Shakespeare of our generation. 
 - Thank you to my instructors for their guidance and support! 
-
+- Of course, most of all, thank you to Mr. Worldwide for being such an inspiration. 
 
 ![Capstone](./Images/capstone.jpg)
 
@@ -163,3 +162,5 @@ As with most projects, this project came with some downfalls and setbacks:
 ## In the End 
 
 ![hope](./Images/hope.jpg)
+
+### Dale 
