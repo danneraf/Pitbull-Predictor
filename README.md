@@ -9,8 +9,14 @@
 - [Problem Statement](#Problem-Statement)
 - [Data](#Data)
 - [Methods](#Methods)
-- [Outcome](#Outcome) 
+- [Outcome](#Outcome)
+- [Using the App](#Using-the-App)
 - [Examples](#Examples) 
+- [Installation](#Installation)
+- [Credits](#Credits)
+- [Drawbacks](#Drawbacks) 
+- [Acknowledgments](#Acknowledgments) 
+- [The End](#In-the-End,)
 
 ### Code Contents (In Order)
 1. [Pitbull Data Collection](./Data/Pitbull.ipynb)
@@ -61,20 +67,26 @@ The BERT and GPT models were imported, trained on the lyric data, and then used 
 ## Outcome
 The Pitbull Lyrics Generator is a fun application that generates Pitbull lyrics based on user input. It utilizes the power of machine learning models to generate lyrics in the style of the rapper and musical genius Pitbull, also known as Mr. Worldwide. The application combines two pre-trained models, GPT-2 and BERT, to generate and classify the lyrics. Users are provided generated life-changing Pitbull lyrics and a score assuring them how similar the lyrics are to actual Pitbull lyrics, determined by a model with over 91% accuracy. Users can rest assured that they will receive only the best GPT generated Mr. Worldwide lyrics possible. 
 
+## Using the App 
+
+INSERT SCREENSHOT 
+
+1. Enter a starting line or a few lyrics in the text input box.
+2. Click the "Dale!" button to generate Pitbull lyrics based on your input.
+3. The generated lyrics will be displayed, along with a score indicating how 305 the lyrics are.
+4. You can also enter the name of an artist in the text input box and click the "?" button to find out if they should feature Pitbull.
 
 ## Examples
 
+![help](./Images/help.png)
 
+![worldwide](./Images/worldwide.png)
+
+![dale](./Images/dale.png)
 
 
 This example was used in text to speech through iMyFone VoxBox to have examples on how the lyrics would sound verbalized, as lyrics are meant for songs. The audio files can be found [here](https://drive.google.com/drive/folders/1y8hs_960EczIAmrk9oAlJSEG0CWsJJdz?usp=sharing) 
 
-## Features
-
-- User-friendly interface: Simply enter a starting line or a few lyrics, and the application will generate Pitbull-style lyrics based on the input.
-- Generated Lyrics: The application displays the generated lyrics, giving you a taste of Pitbull's unique style.
-- Score: The generated lyrics are classified using a BERT model, providing a score that represents how Pitbull the lyrics are.
-- Artist Collaboration: The application also allows users to decide if an artist should feature Pitbull by entering the artist's name.
 
 ## Installation
 
@@ -92,7 +104,7 @@ To run the Pitbull Lyrics Generator application, follow these steps:
    cd Pitbull-Predictor
    ```
 
-3. Install the required dependencies:
+3. Install the required libraries:
 
    ```
    pip install (required libraries)
@@ -104,15 +116,6 @@ To run the Pitbull Lyrics Generator application, follow these steps:
    streamlit run pitpred.py
    ```
 
-
-## Using the App 
-
-insert screenshot 
-
-1. Enter a starting line or a few lyrics in the text input box.
-2. Click the "Dale!" button to generate Pitbull lyrics based on your input.
-3. The generated lyrics will be displayed, along with a score indicating how 305 the lyrics are.
-4. You can also enter the name of an artist in the text input box and click the "?" button to find out if they should feature Pitbull.
 
 ## Credits
 
@@ -143,7 +146,8 @@ As with most projects, this project came with some downfalls and setbacks:
 
 ## Acknowledgments
 
-- Special thanks to the creators of the pre-trained models used in this project, as well as the open-source community for their contributions. Also, a thank you to those that have made projects modeling [Shakespeare](https://github.com/KenyaChauche/sonnet-generation/tree/master). To me, Pitbull is the Shakespeare of our generation. 
+- Special thanks to the creators of the pre-trained models used in this project, as well as the open-source community for their contributions. 
+- Also, a thank you to those that have made projects modeling [Shakespeare](https://github.com/KenyaChauche/sonnet-generation/tree/master). To me, Pitbull is the Shakespeare of our generation. 
 - Thank you to my instructors for their guidance and support! 
 
 
@@ -153,7 +157,7 @@ As with most projects, this project came with some downfalls and setbacks:
 ![Hank](./Images/hank.jpg)
 
 
-#### Me now, because of this project: 
+### Me now, because of this project: 
 
 ![pics](./Images/pics.JPG)
 
