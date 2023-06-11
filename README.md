@@ -60,7 +60,7 @@ The [Data](./Data) folder contains the data that was collected using [LyricsGeni
 
 A pre-trained BERT model and GPT model were imported from [Hugging Face](https://huggingface.co), a company largely focused on machine learning.
 
-The BERT and GPT models were imported, trained on the lyric data, and then used in a Streamlit application where users can input text for thr GPT model to then generate corresponding Pitbull lyrics. The generated lyrics are then scored by the BERT model to determine how similar they are to actual Pitbull lyrics. 
+The BERT and GPT models were imported, trained on the lyric data, and then used in a Streamlit application where users can input text for the GPT model to generate corresponding Pitbull lyrics. The generated lyrics are then scored by the BERT model to determine how similar they are to actual Pitbull lyrics. 
 
 
 ## Outcome
