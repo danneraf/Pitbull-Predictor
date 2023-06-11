@@ -67,6 +67,7 @@ The Pitbull Lyrics Generator is a fun application that generates Pitbull lyrics 
 
 
 
+This example was used in text to speech through iMyFone VoxBox to have examples on how the lyrics would sound verbalized, as lyrics are meant for songs. The audio files can be found [here](https://drive.google.com/drive/folders/1y8hs_960EczIAmrk9oAlJSEG0CWsJJdz?usp=sharing) 
 
 ## Features
 
