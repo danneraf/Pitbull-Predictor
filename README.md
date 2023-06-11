@@ -16,7 +16,7 @@
 - [Credits](#Credits)
 - [Drawbacks](#Drawbacks) 
 - [Acknowledgments](#Acknowledgments) 
-- [The End](#In-the-End,)
+- [The End](#In-the-End)
 
 ### Code Contents (In Order)
 1. [Pitbull Data Collection](./Data/Pitbull.ipynb)
@@ -68,8 +68,6 @@ The BERT and GPT models were imported, trained on the lyric data, and then used 
 The Pitbull Lyrics Generator is a fun application that generates Pitbull lyrics based on user input. It utilizes the power of machine learning models to generate lyrics in the style of the rapper and musical genius Pitbull, also known as Mr. Worldwide. The application combines two pre-trained models, GPT-2 and BERT, to generate and classify the lyrics. Users are provided generated life-changing Pitbull lyrics and a score assuring them how similar the lyrics are to actual Pitbull lyrics, determined by a model with over 91% accuracy. Users can rest assured that they will receive only the best GPT generated Mr. Worldwide lyrics possible. 
 
 ## Using the App 
-
-INSERT SCREENSHOT 
 
 1. Enter a starting line or a few lyrics in the text input box.
 2. Click the "Dale!" button to generate Pitbull lyrics based on your input.
@@ -162,6 +160,6 @@ As with most projects, this project came with some downfalls and setbacks:
 ![pics](./Images/pics.JPG)
 
 
-## In the End, 
+## In the End 
 
 ![hope](./Images/hope.jpg)
