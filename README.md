@@ -68,6 +68,8 @@ The Pitbull Lyrics Generator is a fun application that generates Pitbull lyrics 
 
 ## Using the App 
 
+![example](./Images/example.png)
+
 1. Enter a starting line or a few lyrics in the text input box.
 2. Click the "Dale!" button to generate Pitbull lyrics based on your input.
 3. The generated lyrics will be displayed, along with a score indicating how 305 the lyrics are.
